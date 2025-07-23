@@ -1,0 +1,58 @@
+17:08:15.065 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2f162cc0: 31 ms
+17:08:15.085 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@74cec793: 9 ms
+17:08:15.091 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4a8ab068: 6 ms
+17:08:15.095 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@523424b5: 4 ms
+17:08:15.099 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2b52c0d6: 3 ms
+17:08:15.100 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@372ea2bc: 0 ms
+17:09:51.138 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganesh.k\eclipse-workspace1\OpenCart\master.xml"
+17:09:51.355 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ganesh.k\eclipse-workspace1\OpenCart\master.xml
+
+17:11:11.642 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganesh.k\eclipse-workspace1\OpenCart\master.xml"
+17:11:11.846 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ganesh.k\eclipse-workspace1\OpenCart\master.xml
+
+17:11:15.653 [main] INFO  testCases.TC001_AccountRegisterationTest - *** TC001_AccountRegisterationTest Started ***
+17:11:17.612 [main] INFO  testCases.TC001_AccountRegisterationTest - *** TC001_AccountRegisterationTest Completed ***
+17:11:20.305 [main] INFO  testCases.TC002_LoginTest - **TC002 started**
+17:11:21.624 [main] INFO  testCases.TC002_LoginTest - **TC002 ended**
+17:13:23.381 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganesh.k\eclipse-workspace1\OpenCart\master.xml"
+17:13:23.584 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ganesh.k\eclipse-workspace1\OpenCart\master.xml
+
+17:13:26.464 [main] INFO  testCases.TC001_AccountRegisterationTest - *** TC001_AccountRegisterationTest Started ***
+17:13:28.439 [main] INFO  testCases.TC001_AccountRegisterationTest - *** TC001_AccountRegisterationTest Completed ***
+17:13:30.988 [main] INFO  testCases.TC002_LoginTest - **TC002 started**
+17:13:32.332 [main] INFO  testCases.TC002_LoginTest - **TC002 ended**
+17:13:35.147 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:13:35.148 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:13:35.149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:14:28.989 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganesh.k\eclipse-workspace1\OpenCart\master.xml"
+17:14:29.190 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ganesh.k\eclipse-workspace1\OpenCart\master.xml
+
+17:14:32.323 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:14:32.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:14:32.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:35:56.704 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganesh.k\eclipse-workspace1\OpenCart\master.xml"
+17:35:56.931 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ganesh.k\eclipse-workspace1\OpenCart\master.xml
+
+17:36:00.533 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:36:00.535 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:36:00.536 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:42:14.209 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganesh.k\eclipse-workspace1\OpenCart\grouping.xml"
+21:42:14.484 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ganesh.k\eclipse-workspace1\OpenCart\grouping.xml
+
+21:42:40.238 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganesh.k\eclipse-workspace1\OpenCart\grouping.xml"
+21:42:40.516 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ganesh.k\eclipse-workspace1\OpenCart\grouping.xml
+
+21:42:59.287 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganesh.k\eclipse-workspace1\OpenCart\grouping.xml"
+21:42:59.580 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ganesh.k\eclipse-workspace1\OpenCart\grouping.xml
+
+21:43:10.296 [main] INFO  testCases.TC002_LoginTest - **TC002 started**
+21:43:13.170 [main] INFO  testCases.TC002_LoginTest - **TC002 ended**
+21:44:52.698 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganesh.k\eclipse-workspace1\OpenCart\grouping.xml"
